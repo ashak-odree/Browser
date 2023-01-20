@@ -6,11 +6,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 # Prerequisites
 You will need to have Python and QtPy installed on your machine. You can download the latest version of Python from the official website (https://www.python.org/downloads/) and install it. <br>
-To install QtPy, you can use pip: < pip install qtpy >
+To install QtPy, you can use pip: ' pip install qtpy '
 
 # Installing
 To run the browser, clone or download the repository and navigate to the root directory in your terminal. <br>
-Then run the following command: < pyhton browser.py >
+Then run the following command: ' pyhton browser.py '
 
 # Customizing
 You can customize the behavior of the browser by editing the browser.py file. For example, you can change the default URL that the browser loads when it starts, or add additional functionality like navigation buttons.
