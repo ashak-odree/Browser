@@ -1,22 +1,23 @@
-# Browser
-This is a simple browser application built using Electron. It allows users to navigate the web and access their favorite websites.
+# Python Web Browser
+This project is a basic web browser implemented using Python and QtPy. It uses the QtWebEngine module from PyQt5 to render web pages and handle web functionality.
 
-# Features
- - Simple user interface
- - Ability to navigate to any website by typing in the URL or using search
- - Bookmarking of frequently visited websites
- - Ability to go back and forward in the browsing history
+# Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-# Installation
-To install and run this application, you will need to have Node.js and npm installed on your computer. <br>
+# Prerequisites
+You will need to have Python and QtPy installed on your machine. You can download the latest version of Python from the official website (https://www.python.org/downloads/) and install it. <br>
+To install QtPy, you can use pip: <pip install qtpy>
 
-Clone or download the repository from https://github.com/ashak-odree/Browser <br>
-Open a terminal and navigate to the root folder of the project <br>
-Run the command npm install to install all the necessary dependencies <br>
-Run the command npm start to start the application <br>
+# Installing
+To run the browser, clone or download the repository and navigate to the root directory in your terminal. <br>
+Then run the following command: <browser.py>
 
-# Contribution
-If you would like to contribute to the development of this application, please feel free to fork the repository and create a pull request with your changes.
+# Customizing
+You can customize the behavior of the browser by editing the browser.py file. For example, you can change the default URL that the browser loads when it starts, or add additional functionality like navigation buttons.
 
+# Built With
+ - Python - The programming language used
+ - QtPy - The Python bindings for Qt
+ 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
